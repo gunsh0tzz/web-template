@@ -4,7 +4,7 @@ Basic web template with a index.html, style.css and script.js.
 
 ### index.html
 
-- style.css and index.js are already linked in the head
+- style.css and script.js are already linked in the head
 
 ### style.css
 
